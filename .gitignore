@@ -28,3 +28,6 @@ dist-ssr
 
 # Netlify local state
 .netlify
+
+# Microsoft Office temporary lock files
+~$*
